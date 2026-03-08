@@ -19,6 +19,8 @@ Working at the intersection of **backend architecture** and **AI integration**.
 
 ---
 
+<div align="center">
+
 ### 🛠️ Tech Stack
 
 | Area | Technologies |
@@ -30,16 +32,6 @@ Working at the intersection of **backend architecture** and **AI integration**.
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **AI** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
 
+</div>
 ---
 
-### 🌟 Featured Projects
-
-**📄 CV Parser & ATS System**
-Parses PDF resumes into structured candidate data for applicant tracking.
-`C#` `.NET Core` `HTML` `CSS` `JavaScript` `Entity Framework` `MSSQL`
-
----
-
-**🖥️ SleLLM Shell**
-Custom shell supporting both Bash and LLM-based commands — system-level programming meets AI.
-`C` `Bash` `Python` `LLM APIs`
