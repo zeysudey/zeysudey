@@ -33,5 +33,5 @@ Working at the intersection of **backend architecture** and **AI integration**.
 | **AI** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
 
 </div>
----
+
 
