@@ -39,4 +39,4 @@ I’m a final‑year Computer Engineering student passionate about creating scal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeynep%20Sude%20Yılmaz-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-sude-yilmaz/)  
 [![GitHub](https://img.shields.io/badge/GitHub-zeysudey-black?style=flat-square&logo=github&logoColor=white)](https://github.com/zeysudey)  
-[![Email](https://img.shields.io/badge/Email-zey.sude%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-zey.sude%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eng.zeynepsudeyilmaz@gmail.com)
