@@ -12,7 +12,7 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 Final-year **Computer Engineering** student focused on building scalable web applications and intelligent systems.
 Working at the intersection of **backend architecture** and **AI integration**.
